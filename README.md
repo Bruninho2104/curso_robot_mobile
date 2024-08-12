@@ -2,7 +2,7 @@
 
 Este é um projeto feito juntamente com o curso - Robot Framework e Appium para Android e iOS - da QAXperience!
 
-## Technologies: 👨‍💻
+## Tecnologias: 👨‍💻
 No projeto foi usado:
 - Robot Framework
 - Appium e Appium Inspector
